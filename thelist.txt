@@ -6,3 +6,7 @@
 ! 奇怪的廣告
 ||googleads.g.doubleclick.net^
 ||www.googleadservices.com^
+||ad.doubleclick.net^
+||track.wargaming-aff.com^
+||exch.quantserve.com^
+||insight.adsrvr.org^
