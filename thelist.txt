@@ -5,3 +5,4 @@
 ! --------------------------------------------------
 ! 奇怪的廣告
 ||googleads.g.doubleclick.net^
+||www.googleadservices.com^
