@@ -1,0 +1,7 @@
+!ENLoada大計畫
+! 白清單
+@@||ip2location.com^
+
+! --------------------------------------------------
+! 奇怪的廣告
+||googleads.g.doubleclick.net^
